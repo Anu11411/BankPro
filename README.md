@@ -28,7 +28,7 @@ The project consists of two main classes:
 2. **Compile Java Files**:
  
 3. **Run the Application**:
-4. 
+ 
 4. **Follow the Console Prompts**:
 - Choose option 1 to create a new account or option 2 to log in to an existing account.
 - Follow the subsequent prompts to perform desired banking operations.
